@@ -1,4 +1,3 @@
-grid5000-applet
-===============
+Here we go :
 
-G5k GTK applet for ubuntu desktop
+![Alt text](applet.png "grid5000 applet")
